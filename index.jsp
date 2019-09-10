@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>HTML5 Audio Player</title>
+  <title>DevOps Audio Player</title>
   <style>
     #playlist{
       list-style: none;
