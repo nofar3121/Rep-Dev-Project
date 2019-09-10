@@ -16,7 +16,7 @@
     }
   </style>
 </head>
-<body  background="bg1.jpg">
+<body  background="bg.jpg">
   <div style="margin-left: 10%" margin-top="15%">
     <!--<p>Demo Music From <a href="http://incompetech.com">incompetech.com</a></p>-->
 <audio src="" controls id="audioPlayer">
