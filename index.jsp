@@ -15,10 +15,9 @@
       color:orange;
     }
   </style>
-  <!-- Source Code From YouTube.com/MicroTechTutorials  you may remove this message on your webpage but please do not redistribtue -->
 </head>
 <body  background="bg1.jpg">
-  <div style="margin-left: 10%" topmargin="15%">
+  <div style="margin-left: 10%" margin-top="15%">
     <!--<p>Demo Music From <a href="http://incompetech.com">incompetech.com</a></p>-->
 <audio src="" controls id="audioPlayer">
   Sorry, your browser doesn't support html5!
