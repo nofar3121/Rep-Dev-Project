@@ -17,7 +17,7 @@
   </style>
 </head>
 <body  background="bg.jpg">
-  <div style="margin-left: 10%" margin-top="15%">
+  <div>
     <!--<p>Demo Music From <a href="http://incompetech.com">incompetech.com</a></p>-->
 <audio src="" controls id="audioPlayer">
   Sorry, your browser doesn't support html5!
