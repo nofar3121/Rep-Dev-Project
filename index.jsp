@@ -17,7 +17,6 @@
   </style>
 </head>
 <body  background="bg.jpg">
-  <div>
     <!--<p>Demo Music From <a href="http://incompetech.com">incompetech.com</a></p>-->
 <audio src="" controls id="audioPlayer">
   Sorry, your browser doesn't support html5!
@@ -33,6 +32,5 @@
   // loads the audio player
   audioPlayer();
 </script>
-  </div>
 </body>
 </html>
