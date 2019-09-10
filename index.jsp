@@ -17,8 +17,9 @@
   </style>
   <!-- Source Code From YouTube.com/MicroTechTutorials  you may remove this message on your webpage but please do not redistribtue -->
 </head>
-<body style="margin-left: 10%" topmargin="15%" background="bg1.jpg">
-<!--<p>Demo Music From <a href="http://incompetech.com">incompetech.com</a></p>-->
+<body  background="bg1.jpg">
+  <div style="margin-left: 10%" topmargin="15%">
+    <!--<p>Demo Music From <a href="http://incompetech.com">incompetech.com</a></p>-->
 <audio src="" controls id="audioPlayer">
   Sorry, your browser doesn't support html5!
 </audio>
@@ -33,5 +34,6 @@
   // loads the audio player
   audioPlayer();
 </script>
+  </div>
 </body>
 </html>
