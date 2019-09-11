@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>~DevOps Audio Player~</title>
+  <title>!!!DevOps Audio Player</title>
   <style>
     #playlist{
       list-style: none;
@@ -16,7 +16,7 @@
     }
   </style>
 </head>
-<body  background="bg1.jpg">
+<body  background="bg.jpg">
     <!--<p>Demo Music From <a href="http://incompetech.com">incompetech.com</a></p>-->
 <audio src="" controls id="audioPlayer">
   Sorry, your browser doesn't support html5!
