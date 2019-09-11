@@ -16,7 +16,7 @@
     }
   </style>
 </head>
-<body  background="bg.jpg">
+<body  background="bg1.jpg">
     <!--<p>Demo Music From <a href="http://incompetech.com">incompetech.com</a></p>-->
 <audio src="" controls id="audioPlayer">
   Sorry, your browser doesn't support html5!
